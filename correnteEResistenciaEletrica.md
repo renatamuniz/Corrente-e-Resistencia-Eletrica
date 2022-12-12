@@ -15,5 +15,10 @@
   
   Para pensar na intensidade da corrente, a gente precisa olhar para a quantidade de elétrons que passa em uma área transversal do condutor. Nesse caso, seja _n_ o número de elérons que atravessa esse condutor em um determinado intervalo de tempo $\Delta t$, de hoje em diante, vamos denotar a corrente elétrica por _i_, dada por:
   $$i = \dfrac{ne}{\Delta t}$$
+  Sendo **e** a carga do elétron em módulo. Esse numerador _ne_ é chamado de **variação de carga elétrica**, já que ele expressa o número de elétrons número de elétrons num meio e é denotado por $\Delta q$.
+  Logo:
+  $$\Delta q = ne$$
+  e
+  $$i = \dfrac{\Delta q}{\Delta t}$$
 [^1]: JÚNIOR, Joab Silas da Silva. "O que é corrente elétrica?"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/o-que-e/fisica/o-que-e-corrente-eletrica.htm. Acesso em 01 de dezembro de 2022.
 
