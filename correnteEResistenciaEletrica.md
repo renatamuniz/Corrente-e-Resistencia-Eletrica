@@ -20,5 +20,9 @@
   $$\Delta q = ne$$
   e
   $$i = \dfrac{\Delta q}{\Delta t}$$
+  
+  
+  
+  
 [^1]: JÚNIOR, Joab Silas da Silva. "O que é corrente elétrica?"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/o-que-e/fisica/o-que-e-corrente-eletrica.htm. Acesso em 01 de dezembro de 2022.
 
