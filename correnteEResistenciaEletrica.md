@@ -21,7 +21,16 @@
   e
   $$i = \dfrac{\Delta q}{\Delta t}$$
   
+  ## Resistores Elétricos
   
+  Um resistor elétrico é um componente que limita correntes em condutores, transformando energia potencial elétrica em energia térmica. Essa medida da dificuldade de passagem de corrente nos resistores se chama **resistência elétrica**. Imagine uma associação de uma fonte de tensão e um resistor de resistência R, onde impomos uma corrente i.
+  A corrente _i_ percorre o circuito encontrando um resistor R. A ideia é entender que, quanto maior a resistência do resistor, mais dificuldade a corrente tem de passar por ali e é exatamente esse o conceito de resistor elétrico: quanto mais a corrente quer passar por ele, mais energia potencial elétrica é convertida em calor.
+  Existem duas leis que relacionam resistência elétrica, corrente e tensão entre dois pontos. Leis essas que nos mostram que a resistência está diretamente ligada com a passagem de corrente, diferença de potencial e com fatores geométricos do resistor. 
+  ### Lei de Ohm
+  Essa lei nos diz que a variação de corrente é proporcional à diferença de potencial presente entre dois pontos do condutor e, quando a resistência total é constante, esse resistor é dito **ôhmico**. 
+  > Considere um resistor R pelo qual passa uma corrente _i_ diante de uma diferença de potencial U.
+  Da primeira Lei de Ohm, temos que:
+  $$U = Ri$$
   
   
 [^1]: JÚNIOR, Joab Silas da Silva. "O que é corrente elétrica?"; Brasil Escola. Disponível em: https://brasilescola.uol.com.br/o-que-e/fisica/o-que-e-corrente-eletrica.htm. Acesso em 01 de dezembro de 2022.
